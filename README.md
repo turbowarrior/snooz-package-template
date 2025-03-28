@@ -2,9 +2,9 @@
 
 Welcome to the snooz-package-template repository. The purpose of this repository is to provide the necessary tools and code for creating new modules and tools in the Snooz software. This README assumes that you have a configured developer environment for Snooz. Make sure your developer environment is set up before proceeding.
 
-Documentation to configure the developer environment : https://snooz-toolbox-documentation.readthedocs.io/dev_guide/installation/installation.html  
+[Documentation to configure the developer environment](https://snooz-toolbox-documentation.readthedocs.io/latest/dev_guide/installation/installation.html)
 
-Documentation to run Snooz from the source code : https://snooz-toolbox-documentation.readthedocs.io/dev_guide/run_snooz.html
+[Documentation to run Snooz from the source code](https://snooz-toolbox-documentation.readthedocs.io/latest/dev_guide/run_snooz.html)
 
 ## Table of Contents
 - [Installation](#installation)
