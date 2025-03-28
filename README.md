@@ -51,10 +51,10 @@ In Snooz, modules and tools are organized into packages. This repository comes w
 - In Snooz, select **File->Settings**.
 - In the **Packages** tab, click on **Add from folder**.
 - Navigate to the folder of this repository and select **./modules/ExampleModulesPackage**.
-- Repeat the steps to also include the folder **./tools/ExampleToolsPackage**.
+- Repeat the steps to also include the folders **./tools/ExampleToolsPackage** and **./apps/ExampleAppsPackage**.
 
 
-As their name suggests, ExampleModulesPackage contains a list of modules and ExampleToolsPackage contains tools that use those modules.
+As their name suggests, ExampleModulesPackage contains a list of modules, ExampleToolsPackage contains tools that use those modules, and ExampleAppsPackage contains a list of apps.
 
 Once this is done, you should find a new tool under the **Examples** menu in Snooz called **Signal Generator**.
 
@@ -62,7 +62,7 @@ Once this is done, you should find a new tool under the **Examples** menu in Sno
 ## Tools
 ### Try out the Signal Generator tool.
 
-To explore the current examples with the official documentation go to : https://snooz-toolbox-documentation.readthedocs.io/dev_guide/explore_ex.html
+To explore the current examples with the official documentation, see [this link](https://snooz-toolbox-documentation.readthedocs.io/latest/dev_guide/explore_ex.html).
 
 Open the Signal Generator tool. This is a demo tool used to create a signal and export a preview in a PNG file. The user can configure two different signals that can be added together to create the resulting signal.
 - In Snooz, select **Examples->Signal Generator**.
