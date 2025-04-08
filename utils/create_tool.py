@@ -11,7 +11,7 @@ print("IMPORTANT: always use the same package name for all your tools if you wan
 package_name = ""
 package_exist = False
 while not package_exist:
-    package_name = input("Only letters, no space, camel case (ie: ExampleToolsPackage): ")
+    package_name = input("Only letters, no space, camel case (ie: MyPackage): ")
     package_path = os.path.join(os.getcwd(), "tools", package_name)
     package_exist = exists(package_path)
     if not package_exist:
